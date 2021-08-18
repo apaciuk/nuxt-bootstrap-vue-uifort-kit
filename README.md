@@ -1,4 +1,5 @@
-# nuxt-bootstrap-boilerplate
+# nuxt-bootstrap-vue-uifort-kit
+
 
 Nuxt.js project + Bootstrap Vue uifort CSS Framework with customized uifort component examples in examples folder.
 
